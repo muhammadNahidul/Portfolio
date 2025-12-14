@@ -40,6 +40,16 @@ const userInfo = {
       desc: "A dynamic weather application built with JavaScript and OpenWeatherMap API. Users can view real-time weather information for any city, including temperature, weather conditions, and icons. Designed with TailwindCSS for a responsive and modern UI.",
       link: "https://github.com/muhammadNahidul/Weather-App",
     },
+    {
+      name: "Social Media API",
+      desc: "Developed a social media app with features like user registration, posts, likes, an comments. Designed database models and implemented CRUD functionality using Django.",
+      link: "https://github.com/muhammadNahidul/social-media-API",
+    },
+        {
+      name: "IMDB API",
+      desc: "Created an Developed a web application/API to fetch and display movie and TV show data using the IMDb API.",
+      link: "https://github.com/muhammadNahidul/IMDB-API",
+    },
   ],
 };
 
